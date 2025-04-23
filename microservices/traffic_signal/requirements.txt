@@ -1,0 +1,7 @@
+flask>=2.0.0
+gunicorn>=20.1.0
+kafka-python>=2.0.2
+flask-cors
+cryptography 
+numpy
+tensorflow
